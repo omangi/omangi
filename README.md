@@ -5,7 +5,7 @@ adoro a internet, e sou apaixonado por desenhar sistemas, arquitetear, desenvolv
 colocar um cache ali, refatora essa api ... uffa sistema no ar com 0 (ZERO) bugs... alguém discorda ?
 </p>
 
-## Algumas coisas
+## Alguns pontos :black_circle:
 
 - :rocket: Inúmeros sistemas em produção, deploy com ssh, ec2, pipeline, bitbucket, github, que mais ?
 - :running: Projetos do zero até a implantação:
@@ -24,7 +24,7 @@ colocar um cache ali, refatora essa api ... uffa sistema no ar com 0 (ZERO) bugs
 
 
 ## Minhas Métricas
-####### Métricas; sempre precisam ser melhoradas ....
+- Métricas; sempre precisam ser melhoradas ....
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omangi&langs_count=8&theme=dracula)](https://github.com/omangi)
 
