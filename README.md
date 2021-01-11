@@ -23,7 +23,24 @@ colocar um cache ali, refatora essa api ... uffa sistema no ar com 0 (ZERO) bugs
 - [LinkedIn](https://www.linkedin.com/in/mangierre-barros-martins-a79b3ba2/) 👨💼
 
 
-## Minhas Métricas
+## Métricas, Linguagens e Ferramentas
+
+<img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=grey"/>
+<img src="https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongodb%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<imgsrc="https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=JetBrains&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
+
+<br>
+<br>
+<br>
+
 - Métricas; sempre precisam ser melhoradas ....
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omangi&langs_count=8&theme=dracula)](https://github.com/omangi)
